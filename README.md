@@ -1,4 +1,4 @@
-### 🥶 pyto-p
+### 🥶  pyto-p
 
 <!--
 **pyto-p/pyto-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**'Aspiring Full-Stack Web Developer'**
+**Aspiring Full-Stack Web Developer**
