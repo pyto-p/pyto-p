@@ -15,7 +15,8 @@ I use this platform to showcase my projects, interests and skills.
 ---
 
 <h3>Contact Me</h3>
-<h5>Email: <strong>sbstntmprl@duck.com</strong></h5>
+<h5>Email <br><br> <strong>sbstntmprl@duck.com</strong> </h5>
+
 <h5>Socials<h5/>
 <p align="left">
   <a href="https://www.linkedin.com/in/sbstntmprl/" target="blank">
@@ -37,12 +38,14 @@ I use this platform to showcase my projects, interests and skills.
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/pyto_p" target="blank">
+  <a href="https://codeforces.com/profile/pyto-p" target="blank">
       <img align="center"
-      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="HackerRank" height="30" width="40" />
+      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" height="30" width="40" />
   </a>
- 
 </p>
+  
+#
+  
 <h3>Skillset</h3>
 <h5>Front-end</h5>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -51,8 +54,9 @@ I use this platform to showcase my projects, interests and skills.
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="VueJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<br>                  
+<br>
 <h5>Back-end</h5>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>   
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -63,6 +67,7 @@ I use this platform to showcase my projects, interests and skills.
 <br>
 <h5>Desktop Environment</h5>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>     
+<img align="left" alt="Win10" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>  
 <br>
 
 #
@@ -70,3 +75,5 @@ I use this platform to showcase my projects, interests and skills.
 <h3>Stats</h3>
 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyto-p&show_icons=true&theme=apprentice)
+
+---
