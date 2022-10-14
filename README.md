@@ -14,6 +14,35 @@ I use this platform to showcase my projects, interests and skills.
 
 ---
 
+<h3>Contact Me</h3>
+<h5>Email: <strong>sbstntmprl@duck.com</strong></h5>
+<h5>Socials<h5/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sbstntmprl/" target="blank">
+  <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a> 
+  <a href="https://facebook.com/sbstntmprl" target="blank"><img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="FB" height="30" width="40" />
+  </a> 
+  <a href="https://instagram.com/sbstntmprl" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="IG" height="30" width="40" />
+  </a>  
+</p>
+<h5>CP</h5>
+<p align="left">
+  <a href="https://www.hackerrank.com/pyto_p" target="blank">
+      <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/pyto_p" target="blank">
+      <img align="center"
+      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="HackerRank" height="30" width="40" />
+  </a>
+ 
+</p>
 <h3>Skillset</h3>
 <h5>Front-end</h5>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
