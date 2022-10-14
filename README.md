@@ -40,4 +40,4 @@ I use this platform to showcase my projects, interests and skills.
 
 <h3>Stats</h3>
 
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyto-p&show_icons=true&theme=gotham)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyto-p&show_icons=true&theme=apprentice)
