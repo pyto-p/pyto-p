@@ -15,7 +15,8 @@ I use this platform to showcase my projects, interests and skills.
 ---
 
 <h3>Contact Me</h3>
-<h5>Email <br><br> <strong>sbstntmprl@duck.com</strong> </h5>
+<h5>Email</h5>
+sbstntmprl@duck.com
 
 <h5>Socials<h5/>
 <p align="left">
