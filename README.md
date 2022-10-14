@@ -4,9 +4,9 @@
 
 Hello, world! 
 
-I am Sebastian a.k.a <strong>pyto-p</strong>, 20 years old, a computer science student at Polytechnic University of the Philippines. 
+I am Sebastian a.k.a <strong>pyto-p</strong>, 20 years old, a computer science student at Polytechnic University of the Philippines. I began my journey in the year 2020. I've learned several programming languages, including C, Java, and Python.
 
-I am an aspiring full-stack web developer that loves to put my thoughts on programming. Started my journey way back 2020, I have learned different programming languages such as C, Java, and Python. My interests in this field are web development, and data science. I code software apps that make me and my clients' lives easier. I build and publish here all of my notable projects to showcase my skills, interests, and proficiency.  
+I am an aspiring full-stack web developer that loves to put my thoughts on programming and code software apps that make my life and my clients' lives easier. Other than web development, I am also interested in the field of data science. All of my notable projects are built and published here to showcase my skills, interests, and proficiency.
 
 <p align="center">
   <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="300">
