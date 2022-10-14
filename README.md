@@ -1,4 +1,4 @@
-<h1 align="center"> 👁 PYTO-P 👁 </h1>
+<h1> 👁 PYTO-P 👁 </h1>
 
 **`Computer Science Major`**
 
