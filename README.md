@@ -6,7 +6,7 @@ Sup,
 
 I am Sebastian a.k.a <strong>pyto-p</strong>, a 20 year-old computer science student at Polytechnic University of the Philippines. I began my journey in the year of 2020. I've learned several programming languages, including C, Java, and Python.
 
-I am an aspiring data analyst/data scientist since my interest in here are very high. 
+I am an aspiring data analyst/data scientist and I am currently learning Python, R, and MySQL. 
 
 <p align="center">
   <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="300">
