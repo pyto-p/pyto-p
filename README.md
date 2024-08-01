@@ -99,23 +99,23 @@
   <h3>Database</h3>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB Badge"/>
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL Badge"/>
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=fff" alt="MariaDB Badge"/>
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=fff" alt="Firebase Badge"/>
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite Badge"/>
   </a>
 </div>
 
@@ -123,11 +123,11 @@
   <h3 align="left">ML / AI</h3>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python Badge"/>
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="HuggingFace Badge"/>
   </a>
 </div>
 
@@ -135,42 +135,42 @@
   <hr>
   <h3 align="center">WORKSPACE / TOOLS </h3>
   <a href="#">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="ArchLinux Badge"/>
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff" alt="NeoVim Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff" alt="VSCode Badge"/>
   </a>
   
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff" alt="Jira Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff" alt="CSS3 Badge"/>
-  </a>
-  
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="CSS3 Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff" alt="Trello Badge"/>
   </a>
   
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel Badge"/>
+  </a>
+  
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma Badge"/>
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Obsidian-%23483699?style=for-the-badge&logo=obsidian&logoColor=fff" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Obsidian-%23483699?style=for-the-badge&logo=obsidian&logoColor=fff" alt="Obsidian Badge"/>
   </a>
   </div>
 
