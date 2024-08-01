@@ -120,15 +120,14 @@
 
 <div align="left">
   <hr>
-  <h3 align="center">WORKSPACE / TOOLS</h3>
-  <h3>OS</h3>
+  <h3 align="center">WORKSPACE / TOOLS </h3>
   <a href="#">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="CSS3 Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" alt="CSS3 Badge"/>
   </a>
-  <h3>Code Editor</h3>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff" alt="CSS3 Badge"/>
   </a>
@@ -136,7 +135,7 @@
     <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff" alt="CSS3 Badge"/>
   </a>
   
-  <h3>Collaboration Tools</h3>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff" alt="CSS3 Badge"/>
   </a>
@@ -144,7 +143,7 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff" alt="CSS3 Badge"/>
   </a>
   
-  <h3>Cloud Deployment</h3>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="CSS3 Badge"/>
   </a>
@@ -152,12 +151,11 @@
     <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="CSS3 Badge"/>
   </a>
   
-  <h3>Design</h3>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="CSS3 Badge"/>
   </a>
-  
-  <h3>NoteTaking</h3>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Obsidian-%23483699?style=for-the-badge&logo=obsidian&logoColor=fff" alt="CSS3 Badge"/>
   </a>
