@@ -3,17 +3,7 @@
 </div>
 <hr>
 
-<p align="center">
-  🧑🏽‍💻 Aspiring full stack developer who thrives on writing clean codes, and designing solutions in order to solve problems.
-  <br>
-  📚 4th Year Computer Science student at Polyechnic University of the Philippines.
-  <br>
-  🧠 Learning full stack development with MERN stack and Laravel.
-  <br>
-  💻 Working as a Full Stack Dev Intern at Spiralytics Inc.
-</p>
-
-<h4 align="center">CONNECT WITH ME</h4>
+<h3 align="center">CONNECT WITH ME</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/sbstntmprl/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,10 +20,22 @@
 
 <br>
 
+<p align="center">
+  🧑🏽‍💻 Aspiring full stack developer who thrives on writing clean codes, and designing solutions in order to solve problems.
+  <br>
+  📚 4th Year Computer Science student at Polyechnic University of the Philippines.
+  <br>
+  🧠 Learning full stack development with MERN stack and Laravel.
+  <br>
+  💻 Working as a Full Stack Dev Intern at Spiralytics Inc.
+</p>
+
+<hr>
+<h3 align="center">STREAK STATS</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pyto-p&theme=tokyonight" alt="pyto-p" /></p>
 
-<h3 align="center">TECH STACK</h3>
 <hr>
+<h3 align="center">TECH STACK</h3>
 <div align="left">
   <h3>FrontEnd</h3>
   <a href="#">
@@ -117,8 +119,8 @@
 </div>
 
 <div align="left">
-  <h3 align="center">WORKSPACE / TOOLS</h3>
   <hr>
+  <h3 align="center">WORKSPACE / TOOLS</h3>
   <h3>OS</h3>
   <a href="#">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="CSS3 Badge"/>
@@ -162,9 +164,10 @@
   </div>
 
 <div align="center">
-  <h3>STATS</h3>
   <hr>
+  <h3>OTHER STATS</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
 </div>
 
