@@ -177,8 +177,8 @@
 <hr>
 <h3 align="center">OTHER STATS</h3>
 <p align="center">
-  <img height=200 width="40%" src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
-  <img height= 200  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
+  <img height=200 width="49%" src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
+  <img height= 200  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
 </p>
 
 
