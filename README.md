@@ -1,14 +1,19 @@
-<h1 align="center">WHOAMI</h1>
-
 <div align="center">
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=put%20your%20thoughts%20on%20programming.%20%20%20%20%20%20%20%20%20%20%20%20&speed=215&comment="></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=BF91F3&background=1A1B2700&center=true&vCenter=true&width=600&height=80&lines=WHOAMI;SUP%2C+I'M+PYTO-P;AN+OPEN-SOURCE+ENJOYER" alt="Typing SVG" /></a>
 </div>
+<hr>
 
-<h3 align="justify">Sup, I'm pyto-p! A 21-year old computer science student who has a keen interest in full stack development.</h3>
+<p align="center">
+  🧑🏽‍💻 Aspiring full stack developer who thrives on writing clean codes, and designing solutions in order to solve problems.
+  <br>
+  📚 4th Year Computer Science student at Polyechnic University of the Philippines.
+  <br>
+  🧠 Learning full stack development with MERN stack and Laravel.
+  <br>
+  💻 Working as a Full Stack Dev Intern at Spiralytics Inc.
+</p>
 
-
-
-<h3 align="center">CONNECT WITH ME</h3>
+<h4 align="center">CONNECT WITH ME</h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/sbstntmprl/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,10 +27,12 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gtilab&logoColor=white" alt="GitLab Badge"/>
   </a>
 </div>
+
 <br>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pyto-p&theme=tokyonight" alt="pyto-p" /></p>
 
-<h3 align="left">TECH STACK</h3>
+<h3 align="center">TECH STACK</h3>
 <hr>
 <div align="left">
   <h3>FrontEnd</h3>
@@ -110,7 +117,7 @@
 </div>
 
 <div align="left">
-  <h3>WORKSPACE / TOOLS</h3>
+  <h3 align="center">WORKSPACE / TOOLS</h3>
   <hr>
   <h3>OS</h3>
   <a href="#">
@@ -153,11 +160,11 @@
     <img src="https://img.shields.io/badge/Obsidian-%23483699?style=for-the-badge&logo=obsidian&logoColor=fff" alt="CSS3 Badge"/>
   </a>
   </div>
-  <hr>
 
 <div align="center">
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show_icons=true&locale=en" alt="pyto-p" />
+  <h3>STATS</h3>
+  <hr>
+  <img src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
 </div>
 
