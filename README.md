@@ -1,7 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=BF91F3&background=1A1B2700&center=true&vCenter=true&width=600&height=80&lines=WHOAMI;SUP%2C+I'M+PYTO-P;AN+OPEN-SOURCE+ENJOYER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=BF91F3&background=1A1B2700&center=true&vCenter=true&width=600&height=80&lines=WHOAMI;SUP%2C+I'M+PYTO-P;AN+OPEN-SOURCE+ENJOYER" alt="Typing SVG" />
+</a>
 </div>
 <hr>
+
 
 <h3 align="center">CONNECT WITH ME</h3>
 <div align="center">
@@ -31,8 +34,18 @@
 </p>
 
 <hr>
+<h3 align="center">NOTABLE PROJECTS</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pyto-p&repo=pyto-tetris&theme=tokyonight&description_lines_count=1" height="120" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pyto-p&repo=CalorAide&theme=tokyonight&description_lines_count=1" height="120" width="45%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pyto-p&repo=e-mabini-v2.0&theme=tokyonight&description_lines_count=1" height="120" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pyto-p&repo=Leap-2.0&theme=tokyonight&description_lines_count=1" height="120" width="45%" />
+</p>
+
+<hr>
 <h3 align="center">STREAK STATS</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pyto-p&theme=tokyonight" alt="pyto-p" /></p>
+<p align="center"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=pyto-p&theme=tokyonight" alt="pyto-p" /></p>
 
 <hr>
 <h3 align="center">TECH STACK</h3>
@@ -161,13 +174,12 @@
   </a>
   </div>
 
-<div align="center">
-  <hr>
-  <h3>OTHER STATS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
-</div>
+<hr>
+<h3 align="center">OTHER STATS</h3>
+<p align="center">
+  <img height=200 width="40%" src="https://github-readme-stats.vercel.app/api?username=pyto-p&theme=tokyonight&show=reviews&show_icons=true&locale=en" alt="pyto-p" />
+  <img height= 200  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyto-p&theme=tokyonight&show_icons=true&locale=en&layout=donut" alt="pyto-p" />
+</p>
 
 
 
