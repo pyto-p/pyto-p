@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://gitlab.com/pyto-p">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gtilab&logoColor=white" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
 </div>
 
@@ -60,7 +60,7 @@
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript Badge"/>
   </a>
 
   <a href="#">
@@ -127,7 +127,7 @@
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="HuggingFace Badge"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace Badge"/>
   </a>
 </div>
 
